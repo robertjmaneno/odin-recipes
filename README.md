@@ -1,2 +1,2 @@
 # odin-recipes
-The primary objective of this project is to apply the HTML skills I acquired through the Odin Project's Foundational Course in Web Development. By undertaking this project, I aim to reinforce my understanding of HTML and put it into practical use.
+The primary objective of this project is to apply the HTML skills I acquired through the Odin Project's Foundational Course in Web Development. By undertaking this project, I aim to reinforce my understanding of HTML and put it into practical use. This will not only enable me to gain hands-on experience but also strengthen my proficiency in building web applications. As a result, I intend to enhance my project repository with a practical demonstration of my HTML knowledge acquired from the Odin Project's course
